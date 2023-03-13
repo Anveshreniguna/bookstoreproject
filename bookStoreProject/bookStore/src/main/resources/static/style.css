@@ -1,0 +1,32 @@
+img {
+	display: block;
+	margin: 0 auto;
+	position: relative;
+    top: -50px;
+}
+
+.container {
+	padding-top: 50px;
+	font-family: Copperplate, Papyrus, fantasy;
+	
+}
+
+
+.registrationform {
+	padding-top: 150px;
+	font-family: Copperplate, Papyrus, fantasy;
+}
+.navbar {
+	font-family: Copperplate, Papyrus, fantasy;
+}
+
+.description {
+	padding-top: 30px;
+	max-width: 1000px;
+	text-align: center;
+	margin: 0 auto;
+	line-height: 1.5;
+	
+	word-spacing: 5px;
+	
+}
